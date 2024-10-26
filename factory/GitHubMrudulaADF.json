@@ -1,0 +1,9 @@
+{
+	"name": "GitHubMrudulaADF",
+	"location": "japaneast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b1c28795-986d-4356-99d4-8223b011c8ab",
+		"tenantId": "1350afbd-a485-4d74-b72a-927a5917d6bc"
+	}
+}
